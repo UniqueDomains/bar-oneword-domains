@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BAR one-word domains still available to buy.
 
-This dataset contains 4,669 .BAR one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,665 .BAR one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BAR one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bar-oneword-domains&utm_content=description.top) (4,671) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.BAR one word domains]
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | aaa.bar        | premium   | 70       | 38%    | 3      |           |         |         |
-| aaron.bar      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.bar      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.bar  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.bar      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.bar    | available | 60       | 2%     | 7      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.BAR one word domains]
 | abatic.bar     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.bar    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.bar   | available | 50       | 1%     | 8      |           |         |         |
-| abc.bar        | available | 102      | 41%    | 3      |           |         |         |
+| abc.bar        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.bar  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.bar  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.bar | available | 56       | 1%     | 10     |           |         |         |
