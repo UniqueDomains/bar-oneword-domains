@@ -693,7 +693,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3d26004c-ec00-4f33-8408-0a247ff98e77,smiled.bar,available,39.99,,66,5,6,name.com,,
 3d2e3245-0689-4e9d-b55a-c5c2b84b8ec9,notebooks.bar,available,3.49,54.99,56,9,9,namesilo,,
 3d4bb4ac-5382-4c02-b445-082f8d0277bf,abilities.bar,available,39.99,,74,4,9,name.com,,
-3d57775a-c79f-4237-b05e-5049ffed6943,roger.bar,resell,,,78,29,5,GoDaddy,12/02/2026 17:14,12/02/2027 17:14
+3d57775a-c79f-4237-b05e-5049ffed6943,roger.bar,resell,,,78,30,5,GoDaddy,12/02/2026 17:14,12/02/2027 17:14
 3d66a860-1c83-4a9e-b9b7-d991f963ebc8,inthewind.bar,available,39.99,,52,2,11,name.com,,
 3d9552a7-35f6-48b5-b41f-99df385c2b44,sources.bar,available,39.99,,48,14,7,name.com,,
 3d986d42-fd7e-44c4-8b24-08a863482c4a,publicopinion.bar,available,39.99,,70,7,14,name.com,,

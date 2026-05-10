@@ -77,7 +77,7 @@ print(df.head())
 | newage.bar       | resell    | —         | —             | 56             | 32     | 7      | GoDaddy      |
 | events.bar       | premium   | $393.75   | —             | 68             | 37     | 6      | name.com     |
 | reports.bar      | available | $39.99    | —             | 58             | 24     | 7      | name.com     |
-| roger.bar        | resell    | —         | —             | 78             | 29     | 5      | GoDaddy      |
+| roger.bar        | resell    | —         | —             | 78             | 30     | 5      | GoDaddy      |
 | etc.bar          | premium   | $157.50   | —             | 58             | 34     | 3      | name.com     |
 | deeplearning.bar | available | $39.99    | —             | 74             | 23     | 13     | name.com     |
 | markets.bar      | resell    | —         | —             | 62             | 29     | 7      | GoDaddy      |
