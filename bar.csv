@@ -89,7 +89,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 07dcda2d-63f2-492b-9b23-cbb8f84025fc,generations.bar,available,39.99,,56,20,11,name.com,,
 07ddf3f4-2627-4e7b-9287-9bcbf37df3c7,cements.bar,available,3.49,54.99,56,3,7,namesilo,,
 07e37be8-af8f-47f3-b2ae-01b620c46e12,dataentry.bar,available,39.99,,72,6,10,name.com,,
-0847ff93-5f7d-4b19-9619-e8f09c01b648,markets.bar,resell,,,62,29,7,GoDaddy,08/02/2026 16:59,08/02/2027 16:59
+0847ff93-5f7d-4b19-9619-e8f09c01b648,markets.bar,resell,,,62,25,7,GoDaddy,08/02/2026 16:59,08/02/2027 16:59
 085485c2-a606-48d0-af52-d3968afa2919,screenshots.bar,available,3.49,54.99,49,9,11,namesilo,,
 089150f6-df54-437b-9311-b159439e83e4,cousins.bar,available,3.49,54.99,68,11,7,namesilo,,
 08a81dd9-0b12-4467-9838-0b8bc58e8113,parkin.bar,available,39.99,,59,8,7,name.com,,
@@ -682,7 +682,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c56d54c-c983-4d0c-9a36-5dba21404686,hangin.bar,available,39.99,,76,4,7,name.com,,
 3c6b7f9a-24c8-4c40-850a-d069c3f75904,holdings.bar,premium,84.99,,52,14,8,name.com,,
 3c77bf9a-8b3a-425a-8d54-bf851ba011c5,privateeye.bar,available,39.99,,53,4,11,name.com,,
-3c92143f-ec3c-4fcd-bb75-b3799d7efb08,newage.bar,resell,,,56,32,7,GoDaddy,12/02/2026 17:01,12/02/2027 17:01
+3c92143f-ec3c-4fcd-bb75-b3799d7efb08,newage.bar,resell,,,56,20,7,GoDaddy,12/02/2026 17:01,12/02/2027 17:01
 3ca281ff-f948-49cd-a72a-005a062da527,gopast.bar,available,39.99,,68,0,7,name.com,,
 3cb04e7c-d3e6-4f4e-9828-05e26276e43b,says.bar,available,39.99,,58,10,4,name.com,,
 3cd9c982-9701-4034-ac36-a729e4a8a073,noparking.bar,available,39.99,,44,5,10,name.com,,

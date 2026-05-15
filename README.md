@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bar one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,282 domains · **Median ask:** $127.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/bar`  
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | justin.bar       | resell    | —         | —             | 58             | 38     | 7      | Dynadot, LLC |
 | WiFi.bar         | premium   | $2,205    | $3,150        | 83             | 37     | 5      | namecheap    |
 | whats.bar        | available | $3.49     | $54.99        | 58             | 24     | 5      | namesilo     |
-| newage.bar       | resell    | —         | —             | 56             | 32     | 7      | GoDaddy      |
+| roger.bar        | resell    | —         | —             | 78             | 30     | 5      | GoDaddy      |
 | events.bar       | premium   | $393.75   | —             | 68             | 37     | 6      | name.com     |
 | reports.bar      | available | $39.99    | —             | 58             | 24     | 7      | name.com     |
-| roger.bar        | resell    | —         | —             | 78             | 30     | 5      | GoDaddy      |
+| candle.bar       | resell    | —         | —             | 79             | 27     | 6      | GoDaddy      |
 | etc.bar          | premium   | $157.50   | —             | 58             | 34     | 3      | name.com     |
 | deeplearning.bar | available | $39.99    | —             | 74             | 23     | 13     | name.com     |
-| markets.bar      | resell    | —         | —             | 62             | 29     | 7      | GoDaddy      |
+| markets.bar      | resell    | —         | —             | 62             | 25     | 7      | GoDaddy      |
 | Cats.bar         | premium   | $882      | $1,260        | 59             | 33     | 4      | namecheap    |
 | makeit.bar       | available | $39.99    | —             | 82             | 22     | 7      | name.com     |
-| candle.bar       | resell    | —         | —             | 79             | 27     | 6      | GoDaddy      |
+| Nicole.bar       | resell    | —         | —             | 70             | 24     | 6      | GoDaddy      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
