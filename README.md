@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .bar one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,282 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,282 domains · **Median ask:** $127.71 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,282 domains · **Median ask:** $171.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/bar`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| insight.bar      | available | $39.99    | —             | 76             | 69     | 8      | name.com     |
-| Ryan.bar         | resell    | —         | —             | 60             | 44     | 4      | GoDaddy      |
-| travelers.bar    | premium   | $393.75   | —             | 58             | 61     | 9      | name.com     |
-| neuroscience.bar | available | $39.99    | —             | 80             | 37     | 12     | name.com     |
-| Phil.bar         | resell    | —         | —             | 78             | 40     | 4      | Dynadot, LLC |
-| Books.bar        | premium   | $882      | $1,260        | 52             | 49     | 5      | namecheap    |
-| Trex.bar         | available | $81.98    | —             | 80             | 24     | 5      | namecheap    |
-| justin.bar       | resell    | —         | —             | 58             | 38     | 7      | Dynadot, LLC |
-| WiFi.bar         | premium   | $2,205    | $3,150        | 83             | 37     | 5      | namecheap    |
-| whats.bar        | available | $3.49     | $54.99        | 58             | 24     | 5      | namesilo     |
-| roger.bar        | resell    | —         | —             | 78             | 30     | 5      | GoDaddy      |
-| events.bar       | premium   | $393.75   | —             | 68             | 37     | 6      | name.com     |
-| reports.bar      | available | $39.99    | —             | 58             | 24     | 7      | name.com     |
-| candle.bar       | resell    | —         | —             | 79             | 27     | 6      | GoDaddy      |
-| Cats.bar         | premium   | $882      | $1,260        | 59             | 33     | 4      | namecheap    |
-| deeplearning.bar | available | $39.99    | —             | 74             | 23     | 13     | name.com     |
-| markets.bar      | resell    | —         | —             | 62             | 25     | 7      | GoDaddy      |
-| etc.bar          | premium   | $157.50   | —             | 58             | 32     | 3      | name.com     |
-| webshop.bar      | available | $39.99    | —             | 76             | 22     | 8      | name.com     |
-| Nicole.bar       | resell    | —         | —             | 70             | 24     | 6      | GoDaddy      |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| screen.bar     | available | $39.99    | —             | 72             | 30     | 6      | name.com      |
+| apple.bar      | resell    | —         | —             | 98             | 89     | 5      | GoDaddy       |
+| polo.bar       | premium   | $787.50   | —             | 76             | 79     | 4      | name.com      |
+| realtime.bar   | available | $3.49     | $54.99        | 72             | 28     | 9      | namesilo      |
+| identity.bar   | resell    | —         | —             | 80             | 65     | 8      | GoDaddy       |
+| own.bar        | premium   | $3.49     | $54.99        | 122            | 70     | 3      | namesilo      |
+| ahead.bar      | available | $3.49     | $54.99        | 76             | 27     | 5      | namesilo      |
+| icon.bar       | resell    | —         | —             | 89             | 46     | 4      | Dynadot, LLC  |
+| guess.bar      | premium   | $787.50   | —             | 100            | 70     | 5      | name.com      |
+| commit.bar     | available | $3.49     | $54.99        | 96             | 26     | 6      | namesilo      |
+| print.bar      | resell    | —         | —             | 114            | 45     | 5      | Sea Wasp, LLC |
+| square.bar     | premium   | $157.50   | —             | 72             | 66     | 6      | name.com      |
+| ondemand.bar   | available | $39.99    | —             | 68             | 26     | 9      | name.com      |
+| blink.bar      | resell    | —         | —             | 80             | 42     | 5      | Dynadot, LLC  |
+| sex.bar        | premium   | $7,875    | —             | 98             | 59     | 3      | name.com      |
+| grin.bar       | available | $39.99    | —             | 102            | 25     | 4      | name.com      |
+| gather.bar     | resell    | —         | —             | 96             | 39     | 6      | GoDaddy       |
+| athletics.bar  | premium   | $117      | $234          | 69             | 52     | 9      | namecheap     |
+| integrated.bar | available | $3.49     | $54.99        | 72             | 25     | 10     | namesilo      |
+| cosmos.bar     | resell    | —         | —             | 74             | 39     | 6      | GoDaddy       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
