@@ -1,10 +1,10 @@
-# Available .BAR One-Word Domains (12,282)
+# Available .BAR One-Word Domains (12,289)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C282%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C289%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bar one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,282 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,289 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,282 domains · **Median ask:** $171.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,289 domains · **Median ask:** $153.20 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bar`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bar`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BAR one-word domain c
 
 ### Files
 
-- `bar.csv` — public CSV extract (1,000 rows)
-- `bar.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bar.csv`, public CSV extract (1,000 rows)
+- `bar.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| screen.bar     | available | $39.99    | —             | 72             | 30     | 6      | name.com      |
-| apple.bar      | resell    | —         | —             | 98             | 89     | 5      | GoDaddy       |
-| polo.bar       | premium   | $787.50   | —             | 76             | 79     | 4      | name.com      |
-| realtime.bar   | available | $3.49     | $54.99        | 72             | 28     | 9      | namesilo      |
-| identity.bar   | resell    | —         | —             | 80             | 65     | 8      | GoDaddy       |
-| own.bar        | premium   | $3.49     | $54.99        | 122            | 70     | 3      | namesilo      |
-| ahead.bar      | available | $3.49     | $54.99        | 76             | 27     | 5      | namesilo      |
-| icon.bar       | resell    | —         | —             | 89             | 46     | 4      | Dynadot, LLC  |
-| guess.bar      | premium   | $787.50   | —             | 100            | 70     | 5      | name.com      |
-| commit.bar     | available | $3.49     | $54.99        | 96             | 26     | 6      | namesilo      |
-| print.bar      | resell    | —         | —             | 114            | 45     | 5      | Sea Wasp, LLC |
-| square.bar     | premium   | $157.50   | —             | 72             | 66     | 6      | name.com      |
-| ondemand.bar   | available | $39.99    | —             | 68             | 26     | 9      | name.com      |
-| blink.bar      | resell    | —         | —             | 80             | 42     | 5      | Dynadot, LLC  |
-| sex.bar        | premium   | $7,875    | —             | 98             | 59     | 3      | name.com      |
-| grin.bar       | available | $39.99    | —             | 102            | 25     | 4      | name.com      |
-| gather.bar     | resell    | —         | —             | 96             | 39     | 6      | GoDaddy       |
-| athletics.bar  | premium   | $117      | $234          | 69             | 52     | 9      | namecheap     |
-| integrated.bar | available | $3.49     | $54.99        | 72             | 25     | 10     | namesilo      |
-| cosmos.bar     | resell    | —         | —             | 74             | 39     | 6      | GoDaddy       |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| ane.bar   | available | $2.80     | $81.98        | low            | low    | 3      | namecheap    |
+| fuel.bar  | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
+| ask.bar   | premium   | $1,968.75 | —             | high           | medium | 3      | name.com     |
+| BJP.bar   | available | $39.99    | —             | medium         | low    | 3      | name.com     |
+| icon.bar  | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC |
+| atp.bar   | premium   | $393.75   | —             | medium         | low    | 3      | name.com     |
+| feb.bar   | available | $3.49     | $54.99        | high           | low    | 3      | namesilo     |
+| nine.bar  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC  |
+| bid.bar   | premium   | $1,968.75 | —             | high           | low    | 3      | name.com     |
+| gee.bar   | available | $3.49     | $54.99        | medium         | low    | 3      | namesilo     |
+| okay.bar  | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
+| bro.bar   | premium   | $393.75   | —             | medium         | low    | 3      | name.com     |
+| UML.bar   | available | $3.49     | $54.99        | high           | low    | 3      | namesilo     |
+| apple.bar | resell    | —         | —             | high           | high   | 5      | GoDaddy      |
+| day.bar   | premium   | $787.50   | —             | high           | low    | 3      | name.com     |
+| xxv.bar   | available | $39.99    | $94.99        | medium         | low    | 3      | name.com     |
+| blink.bar | resell    | —         | —             | high           | medium | 5      | Dynadot, LLC |
+| eve.bar   | premium   | $393.75   | —             | high           | medium | 3      | name.com     |
+| achy.bar  | available | $2.80     | $81.98        | low            | low    | 4      | namecheap    |
+| Ellen.bar | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,282 live domains                        |
+| 1,000-row public sample | 12,289 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .bar domains. The names range from short generics such as use.bar, hear.bar, and home.bar to longer dictionary terms like arithmetic.bar and attention.bar. For founders, the main question is whether the word is easy to remember and whether .bar fits the brand or venue clearly. For investors, the key issue is buyer fit: a strong word can still be niche if the extension limits demand. With a median ask of 127.71, pricing is accessible, but the best choices still depend on word quality, commercial intent, and how naturally the term pairs with .bar.
+This list of one-word .bar domain names spans everyday terms, brandable coinages, and phrase-style names such as "bonvoyage.bar" and "lightup.bar." Most are available to register outright, with a smaller share held as premium or resale listings. Pricing skews low, and a handful of names show a meaningful gap between ask price and estimated reference value—worth flagging before you commit to a purchase or shortlist.
 
-- Short words like use.bar and hear.bar are easier to recall
-- Match the word to .bar so the full name reads naturally
-- Median ask is 127.71, so compare quality at similar prices
-- Check for trademark overlap on broad commercial terms
+- 9,545 of 12,289 .bar domains are available to register now
+- 82% price under $500; only 1 lists above $10k
+- Only 37 domains rank in the top 15% for demand
+- show.bar and watch.bar ask well below their reference value
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
