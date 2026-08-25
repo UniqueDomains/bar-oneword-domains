@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bar one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,770 domains · **Median ask:** $103.82 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/bar`
 **Best for:** founders, investors, studios
 
@@ -66,6 +66,7 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
 | okay.bar    | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
 | content.bar | premium   | $819      | $1,170        | high           | low    | 7      | namecheap    |
+| bang.bar    | premium   | $787.50   | —             | high           | low    | 4      | name.com     |
 | ane.bar     | available | $2.80     | $81.98        | low            | low    | 3      | namecheap    |
 | fuel.bar    | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
 | ask.bar     | premium   | $1,968.75 | —             | high           | medium | 3      | name.com     |
@@ -83,7 +84,6 @@ print(df.head())
 | UML.bar     | available | $3.49     | $54.99        | high           | low    | 3      | namesilo     |
 | blink.bar   | resell    | —         | —             | high           | medium | 5      | Dynadot, LLC |
 | eve.bar     | premium   | $393.75   | —             | high           | medium | 3      | name.com     |
-| xxv.bar     | available | $39.99    | $94.99        | medium         | low    | 3      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
