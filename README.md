@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bar one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,252 domains · **Median ask:** $91.94 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/bar`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| club.bar  | available | —         | —             | high           | low    | 4      | —            |
+| okay.bar  | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
 | ane.bar   | available | $2.80     | $81.98        | low            | low    | 3      | namecheap    |
 | fuel.bar  | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
 | ask.bar   | premium   | $1,968.75 | —             | high           | medium | 3      | name.com     |
@@ -74,7 +76,6 @@ print(df.head())
 | nine.bar  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC  |
 | bid.bar   | premium   | $1,968.75 | —             | high           | low    | 3      | name.com     |
 | feb.bar   | available | $3.49     | $54.99        | high           | low    | 3      | namesilo     |
-| okay.bar  | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
 | bro.bar   | premium   | $393.75   | —             | medium         | low    | 3      | name.com     |
 | gee.bar   | available | $3.49     | $54.99        | medium         | low    | 3      | namesilo     |
 | apple.bar | resell    | —         | —             | high           | high   | 5      | GoDaddy      |
@@ -83,7 +84,6 @@ print(df.head())
 | blink.bar | resell    | —         | —             | high           | medium | 5      | Dynadot, LLC |
 | eve.bar   | premium   | $393.75   | —             | high           | medium | 3      | name.com     |
 | xxv.bar   | available | $39.99    | $94.99        | medium         | low    | 3      | name.com     |
-| Ellen.bar | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
