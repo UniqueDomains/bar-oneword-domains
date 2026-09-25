@@ -1,10 +1,10 @@
-# Available .BAR One-Word Domains (29,835)
+# Available .BAR One-Word Domains (32,389)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C835%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C389%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bar one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,835 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,389 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,835 domains · **Median ask:** $77.21 · **High-demand under $2,500:** 21
+**Public extract:** 1,000 rows · **Live catalog:** 32,389 domains · **Median ask:** $77.40 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/bar`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| ane.bar    | available | $2.80     | $81.98        | low            | low    | 3      | namecheap    |
-| screen.bar | resell    | $39.99    | —             | low            | low    | 6      | GoDaddy      |
-| ask.bar    | premium   | $1,968.75 | —             | high           | medium | 3      | name.com     |
-| aug.bar    | available | $2.80     | $81.98        | low            | low    | 3      | namecheap    |
-| fuel.bar   | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
-| atp.bar    | premium   | $393.75   | —             | medium         | low    | 3      | name.com     |
-| bjp.bar    | available | $39.99    | —             | medium         | low    | 3      | name.com     |
-| icon.bar   | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC |
-| bid.bar    | premium   | $1,968.75 | —             | high           | low    | 3      | name.com     |
-| feb.bar    | available | $3.49     | $54.99        | high           | low    | 3      | namesilo     |
-| nine.bar   | resell    | —         | —             | low            | low    | 4      | Porkbun LLC  |
-| bro.bar    | premium   | $393.75   | —             | medium         | low    | 3      | name.com     |
-| gee.bar    | available | $3.49     | $54.99        | medium         | low    | 3      | namesilo     |
-| okay.bar   | resell    | —         | —             | medium         | low    | 4      | GoDaddy      |
-| day.bar    | premium   | $787.50   | —             | high           | low    | 3      | name.com     |
-| uml.bar    | available | $3.49     | $54.99        | high           | low    | 3      | namesilo     |
-| apple.bar  | resell    | —         | —             | high           | high   | 5      | GoDaddy      |
-| eve.bar    | premium   | $393.75   | —             | high           | medium | 3      | name.com     |
-| xxv.bar    | available | $3.49     | $54.99        | low            | low    | 3      | namesilo     |
-| blink.bar  | resell    | —         | —             | medium         | low    | 5      | Dynadot, LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| drink.bar     | premium   | $2,047.50 | $2,925        | high           | low    | 5      | namecheap    |
+| beautiful.bar | premium   | $819      | $1,170        | high           | low    | 9      | namecheap    |
+| natural.bar   | premium   | $2,047.50 | $2,925        | high           | low    | 7      | namecheap    |
+| breakfast.bar | premium   | $2,047.50 | $2,925        | high           | low    | 9      | namecheap    |
+| trip.bar      | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC |
+| nature.bar    | premium   | $163.80   | $234          | high           | low    | 6      | namecheap    |
+| control.bar   | premium   | $819      | $1,170        | high           | low    | 7      | namecheap    |
+| abo.bar       | available | $2.80     | $81.98        | high           | low    | 3      | namecheap    |
+| fuel.bar      | resell    | —         | —             | high           | low    | 4      | GoDaddy      |
+| aaa.bar       | premium   | $1,462.50 | $2,925        | high           | medium | 3      | namecheap    |
+| ane.bar       | available | $2.80     | $81.98        | high           | low    | 3      | namecheap    |
+| icon.bar      | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC |
+| and.bar       | premium   | $157.50   | —             | high           | medium | 3      | name.com     |
+| aug.bar       | available | $2.80     | $81.98        | high           | low    | 3      | namecheap    |
+| paul.bar      | resell    | —         | —             | high           | medium | 4      | GoDaddy      |
+| ape.bar       | premium   | $1,968.75 | $2,812.50     | high           | low    | 3      | name.com     |
+| bjp.bar       | available | $39.99    | —             | high           | low    | 3      | name.com     |
+| ask.bar       | premium   | $1,968.75 | —             | high           | medium | 3      | name.com     |
+| feb.bar       | available | $3.49     | $54.99        | high           | low    | 3      | namesilo     |
+| apple.bar     | resell    | —         | —             | high           | high   | 5      | GoDaddy      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,835 live domains                        |
+| 1,000-row public sample | 32,389 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 21 high-demand names under $2,500          |
+| Basic exported fields   | 18 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAR One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
